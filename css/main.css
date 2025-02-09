@@ -1,0 +1,12 @@
+/****** MAIN STYLES *****/
+
+body {
+    background-color: #E8E8E8;
+}
+
+#vision-board {
+    width: 1200px;
+    height: 850px;
+    margin: 50px auto;
+    overflow: auto;
+}
