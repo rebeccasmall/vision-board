@@ -9,4 +9,14 @@ body {
     height: 850px;
     margin: 50px auto;
     overflow: auto;
+    background-image: url(../img/background.png);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.block {
+    border: 1px dashed black;
+    float: left;
+    box-sizing: border-box;
 }
