@@ -39,3 +39,11 @@ body {
 .right {
     text-align: right;
 }
+
+.white {
+    background-color: #FFFFFF;
+}
+
+.dark {
+    background-color: #3B3B3B;
+}
