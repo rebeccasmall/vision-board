@@ -47,3 +47,15 @@ body {
 .dark {
     background-color: #3B3B3B;
 }
+
+.highlight {
+    background-color: #FFF44F;
+    font-size: 18px;
+    padding: 6px;
+}
+
+strong {
+    font-size: 38px;
+    line-height: 38px;
+    text-transform: capitalize;
+}
